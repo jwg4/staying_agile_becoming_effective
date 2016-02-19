@@ -25,6 +25,11 @@ The unit tests are a by-product.
 It should be obvious that this is the case - different development practices lead to different code.
 The important thing we have to convince you of, is that the code you have written with TDD is *better* than the code you would have written without it.
 
+To do so. let us imagine two different developers who are writing code with tests, and try and think through what kind of code they write.
+
+1. Alice writes a piece of code, say a class or a module, and then thinks of all the ways she can test the functionality, and writes a tests for each. Each time the code is changed in the future. after the changes have been finalized and checked in, the tests are run to make sure the changes do not introduce bugs.
+2. Bob writes code using a practice somewhat like TDD. Before making each change, he first writes a unit test to check the new behavior he wants to implement, and makes sure it fails. Then he codes until the test passes. The difference between what he does and TDD, is that after completing a piece of code, he deletes all the unit tests he has written from his development tree, and does not check any of them in.
+
 ## How TDD works.
 
 Unlike the previous section, which explained the theory of how TDD is supposed to work, this one tries to show how it works in practice.
