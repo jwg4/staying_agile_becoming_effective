@@ -47,20 +47,19 @@ The purpose of TDD is
  - to make it easier and quicker to specify the behavior of the code
  - to make sure only the code that is needed is written
  - to make it easier and quicker to change this code in the future
-
  
- ## TDD is not making development quicker and easier!
+## TDD is not making development quicker and easier!
  
- The obvious and extremely annoying answer to this is 'if it is not working for you, then you are doing it wrong'!
- This answer makes lots of sense to someone who is already a convinced TDD practioner, and no sense at all to someone who isn't yet.
- Instead it reinforces the idea that TDD, and by extension other agile practices, are some kind of brainwashing cult
- or pyramid scheme where everyone who is already a member promises to always pretend to outsiders that it is great.
+The obvious and extremely annoying answer to this is 'if it is not working for you, then you are doing it wrong'!
+This answer makes lots of sense to someone who is already a convinced TDD practioner, and no sense at all to someone who isn't yet.
+Instead it reinforces the idea that TDD, and by extension other agile practices, are some kind of brainwashing cult
+or pyramid scheme where everyone who is already a member promises to always pretend to outsiders that it is great.
  
- The real answer (which comes from a similar, but less irritating viewpoint) is that if TDD is not making development easier
- *you should stop doing it*. TDD is not like going on a diet, where you have to keep persisting with the pain until you
- start to see the gain. You should find writing code easier and be happier with the code you have written from the first 
- time you get a test to pass. If you don't, then the practices that you have adopted aren't working for you.
- Putting more and more effort into these failing practices will not make them start working.
- Instead you need to stop doing what you are doing, think again about how you do development,
- and then try and change your working methodology again in a different way.
+The real answer (which comes from a similar, but less irritating viewpoint) is that if TDD is not making development easier
+*you should stop doing it*. TDD is not like going on a diet, where you have to keep persisting with the pain until you
+start to see the gain. You should find writing code easier and be happier with the code you have written from the first 
+time you get a test to pass. If you don't, then the practices that you have adopted aren't working for you.
+Putting more and more effort into these failing practices will not make them start working.
+Instead you need to stop doing what you are doing, think again about how you do development,
+and then try and change your working methodology again in a different way.
  
