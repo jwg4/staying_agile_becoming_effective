@@ -14,7 +14,9 @@ In this section we try to explain the theoretical answer.
 TDD is a development method based on the principle that unit-tested code is easier to write than code without unit tests.
 Before grokking TDD, developers can see the question of unit tests as a trade-off between code quality and speed of development.
 
-
+In fact TDD represents a synthesis between the false dichotomy of 'getting the code out fast', and 'producing high quality code'.
+The answer that TDD provides is not 'you should always produce high quality code', but 'tested and testable code is both 
+quicker to develop and higher quality'.
 
 ## How TDD works.
 
