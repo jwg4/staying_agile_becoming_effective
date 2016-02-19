@@ -18,7 +18,21 @@ In fact TDD represents a synthesis between the false dichotomy of 'getting the c
 The answer that TDD provides is not 'you should always produce high quality code', but 'tested and testable code is both 
 quicker to develop and higher quality'.
 
+The most important part of this is that adopting TDD does not mean 'writing the same code, but with tests'.
+It means 'writing completely different code to solve the same problem': the reason that people insist that you try TDD
+is that if you weren't writing tests first, it would be practically impossible to come up the the same code.
+The unit tests are a by-product.
+It should be obvious that this is the case - different development practices lead to different code.
+The important thing we have to convince you of, is that the code you have written with TDD is *better* than the code you would have written without it.
+
 ## How TDD works.
+
+Unlike the previous section, which explained the theory of how TDD is supposed to work, this one tries to show how it works in practice.
+Here it is completely valid to suggest that you try doing TDD as well as reading about it, to understand exactly what doing TDD consists of.
+There are lots of tutorials and suggested exercises for newbie TDD practictioners. 
+One important part of this is that by trying TDD, you will get a sense of which problems TDD is simply great for,
+and which problems is either doesn't help with as much, or simply is not valid for (yes there are some).
+However, we respect your right to remain a TDD skeptic and not try it yourself until after you have read this section.
 
 ## But I already write code with a very low number of defects?
 
