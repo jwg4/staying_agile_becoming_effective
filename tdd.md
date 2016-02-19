@@ -42,10 +42,12 @@ Some people already write code which is highly free of defects.
 They do this either because they are very experienced at writing code, because they are very thoughtful about the code they write,
 because they take the time needed to write high quality code, or some combination of these reasons. 
 The purpose of TDD is
+
  - to make it easier and quicker to write this high quality code 
  - to make it easier and quicker to specify the behavior of the code
  - to make sure only the code that is needed is written
  - to make it easier and quicker to change this code in the future
+
  
  ## TDD is not making development quicker and easier!
  
