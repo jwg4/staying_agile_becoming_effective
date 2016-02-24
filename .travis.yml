@@ -1,0 +1,5 @@
+install:
+  - apt-get install pandoc
+
+script:
+  - pandoc *.md
