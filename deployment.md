@@ -16,3 +16,6 @@ Can you instantly check if your app is working correctly after doing the deploym
 
 The first rule of everything is that you can't be sure that anything works unless you have an automated test which finds out whether it does or not.
 
+There are two directions that you can start to do this in. One is to do the most basic tests which you can, which should in general be very simple to design. Is the server even up - can you ping it? Can you interact with the server in the most basic way - retrieving a static file, hitting a trivial API endpoint, even if it's one which has been added just for testing. As we find this to be inadequate, we can make the testing deeper and more comprehensive.
+
+An alternative guiding principle is to try to look at the most obvious manual checks one would do after deployment to check that the system is working. The aim is to make this process efficient and reproducible.
