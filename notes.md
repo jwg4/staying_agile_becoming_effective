@@ -1,4 +1,4 @@
-'If you think you can fly, why not take off from the ground first?'
+> If he thought he could fly, why didn't he take off from the ground first?
 
 ---
 
