@@ -5,6 +5,8 @@
 
 2. Toolkit
 * Git [TODO]
+* Testing system [TODO]
+* Todo list [TODO]
 
 3. Basic principles of becoming Agile
  * Testing
