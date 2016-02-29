@@ -3,7 +3,10 @@
  * Motivation and target audience
  * How to have a working process of software development
 
-2. Basic principles of becoming Agile
+2. Toolkit
+* Git [TODO]
+
+3. Basic principles of becoming Agile
  * Testing
  * Integration
  * Development
