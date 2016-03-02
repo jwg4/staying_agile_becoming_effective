@@ -1,6 +1,11 @@
 
-1. Preliminary session
- * Motivation and target audience
+1. Motivation
+ * Target audience
+ * Change
+ * Confidence
+ * Technical change
+ 
+
  * How to have a working process of software development
 
 2. Toolkit
