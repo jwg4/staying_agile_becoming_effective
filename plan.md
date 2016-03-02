@@ -5,10 +5,8 @@
  * Confidence
  * Technical change
  
-
- * How to have a working process of software development
-
 2. Toolkit
+ * How to have a working process of software development
  * Git [TODO]
  * Testing system [TODO]
  * Todo list [TODO]
