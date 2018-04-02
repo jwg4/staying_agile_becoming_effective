@@ -59,10 +59,11 @@ The obvious and extremely annoying answer to this is 'if it is not working for y
 This answer makes lots of sense to someone who is already a convinced TDD practioner, and no sense at all to someone who isn't yet.
 Instead it reinforces the idea that TDD, and by extension other agile practices, are some kind of brainwashing cult
 or pyramid scheme where everyone who is already a member promises to always pretend to outsiders that it is great.
-In this view, TDD evangelism is a little like the episode of 'Breaking Bad' which Peter watches in *Family Guy*
-- just a spooky hypnotic voice which repeats:
+In this view, TDD evangelism is a little like the episode of 'Breaking Bad' which Peter watches in *Family Guy* - just a spooky hypnotic voice which repeats:
 > You will recommend 'Breaking Bad' to everyone you know.
+
 > 'Breaking Bad' is the best show you've ever seen, except for maybe 'The Wire'.
+
 > You will never stop talking about 'Breaking Bad' or 'The Wire'.
  
 The real answer (which comes from a similar, but less irritating viewpoint) is that if TDD is not making development easier
