@@ -24,6 +24,14 @@ Do-nothing scripts are a special case of upfront interface design: https://blog.
 
 For some applications, arcane string commands are the correct interface.
 
-
-
 ## More automation doesn't make it less messy
+
+## Are long-term plans for reorganizing complex processes worthwhile?
+
+Sometimes planning has a huge value, even though the plan is never carried out. At other times, it doesn't.
+
+When we plan reorganizations, we go through the conceptual steps of understanding the whole process, and seeing it embedded in a process of change itself.
+This usually means deciding which changes are possible within the constraints that the process must still be able to be run each day,
+that data is preserved, that we can recover the process at the time to create old data, and so on.
+
+As Doc admonishes Marty, we have to think four-dimensionally.
