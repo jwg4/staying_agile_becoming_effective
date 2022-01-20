@@ -20,7 +20,12 @@ You would rightfully be annoyed and perhaps insulted. The author should have sum
 
 ## Interface design
 
+When we automate, we often proceed bottom-up, starting from what needs to be done.
+
 Do-nothing scripts are a special case of upfront interface design: https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/
+But lots of other interfaces are possible.
+Suppose that a process has at least one step which requires manual/visual checking, correction or approval.
+How can the interface be designed so that the person performing this manual step has as efficient and pleasant a workflow as possible?
 
 For some applications, arcane string commands are the correct interface.
 
