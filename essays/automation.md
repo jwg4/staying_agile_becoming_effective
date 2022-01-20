@@ -1,5 +1,9 @@
 # I automated something - and now it's a mess!
 
+There are lots of business processes which are carried out repetitively (once a day, every week, etc) and which involve some automation but also a considerable amount of human interaction.
+In finance, think about reconciliations and regulatory submissions.
+In engineering, think about releasing new versions.
+
 There is a whole set of theory about why code becomes, in a certain optimal limit, extremely similar in appearance to noise.
 If we can predict the next character of a piece of text, then that character is redundant.
 Most ways of writing computer code allow us to remove a lot of this redundancy using macros or definitions.
@@ -50,6 +54,8 @@ For some applications, arcane string commands are the correct interface.
 
 ## More automation doesn't make it less messy
 
+## Distinguishing removable complexity from intrinsic complexity
+
 ## Are long-term plans for reorganizing complex processes worthwhile?
 
 Sometimes planning has a huge value, even though the plan is never carried out. At other times, it doesn't.
@@ -59,3 +65,12 @@ This usually means deciding which changes are possible within the constraints th
 that data is preserved, that we can recover the process at the time to create old data, and so on.
 
 As Doc admonishes Marty, we have to think four-dimensionally.
+
+One difficulty, and in fact part of the reason that complex plans are needed, is that there is no infallible method for reshaping a hairy project into something that makes sense.
+Plausible approaches include the following:
+1. Making a single 'button push' which runs all of the process.
+2. Building a dashboard or a task-and-issue queue so that someone carrying out the process only has to look in one place to know what to do next.
+3. Merging different data models into a single schema or design.
+4. Extracting and storing data from each part of the process.
+5. Bringing disparate elements into one language, project or collection of code.
+6. Making almost all elements subordinate to a single overarching one.
