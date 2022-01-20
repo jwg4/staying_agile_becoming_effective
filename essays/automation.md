@@ -22,6 +22,25 @@ You would rightfully be annoyed and perhaps insulted. The author should have sum
 
 When we automate, we often proceed bottom-up, starting from what needs to be done.
 
+A common way of designing software is in the opposite direction, top-down.
+This is a well-established methodology, which encourages us to write code that at initially looks like this:
+
+```
+def get_data():
+    return None
+    
+def transform_data(d):
+    return d
+    
+def write_data(d):
+    pass
+    
+if __name__ == '__main__':
+    d = get_data()
+    t = transform_data(d)
+    write_data(t)
+```
+
 Do-nothing scripts are a special case of upfront interface design: https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/
 But lots of other interfaces are possible.
 Suppose that a process has at least one step which requires manual/visual checking, correction or approval.
